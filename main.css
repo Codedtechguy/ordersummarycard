@@ -55,6 +55,7 @@ p {
 a {
 				color:blue;
 				text-decoration:underline;
+font-size:15px;
 }
 
 a:hover {
@@ -119,7 +120,7 @@ a:hover {
 
 .inner .two > p {
 				display:inline;
-font-size:14px;
+font-size:15px;
 }
 
 .inner .two > p > b {
