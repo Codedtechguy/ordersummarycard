@@ -67,10 +67,10 @@ a:hover {
 	text-decoration: none;
 }
 
-/* Main content styling in order of HTMl precedence */
+/* Main content styling in order of HTML precedence */
 
 .container {
-	width: 80%;
+	width: 90%;
 	padding: 5%;
 	display: flex;
 	justify-content: center;
@@ -80,7 +80,7 @@ a:hover {
 
 .card {
 	background: hsl(255, 100%, 100%);
-	width: 400px;
+	width: 100%;
 	height: auto;
 	border-radius: 25px 25px 25px 25px;
 	margin: 0 auto;
