@@ -160,3 +160,7 @@ a:hover {
 	color: white;
         font-size:14px;
 }
+
+.card_footer>p {
+        font-size:14px;
+}
