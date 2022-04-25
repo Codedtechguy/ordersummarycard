@@ -41,8 +41,8 @@ Feel free to drop your comments and feedback
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https: /your-solution-url.com)
+- Live Site URL: [Here is a live site preview of the solution](https://codedtechguy-ordersunmarycard.netlify.app)
 
 ## My process
 
