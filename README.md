@@ -30,9 +30,10 @@ Users should be able to interact by;
 
 ### Screenshot
 
-![](./screenshot-solution.png)
+![Desktop Preview](design/desktop-preview.png)
+![Mobile Preview](design/mobile-preview.png)
 
-Above is a screenshot of the solution to the challenge taken with the Mozilla Firefox web shot tool.
+Above are screenshots of the solution to the challenge taken with the Mozilla Firefox web shot tool.
 
 This screenshot (solution) helps you have a look at the contrast between the orignal and the recreated.
 
