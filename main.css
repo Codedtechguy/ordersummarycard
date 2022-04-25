@@ -76,7 +76,7 @@ a:hover {
 .card {
      background:hsl(255, 100%, 100%);
 				width:400px;
-				height:550px;
+				height:auto;
 				border-radius:25px 25px 25px 25px;
 				margin:0 auto;
 				text-align:center;
@@ -119,6 +119,7 @@ a:hover {
 
 .inner .two > p {
 				display:inline;
+font-size:14px;
 }
 
 .inner .two > p > b {
