@@ -70,9 +70,12 @@ a:hover {
 /* Main content styling in order of HTMl precedence */
 
 .container {
-	width: 90%;
+	width: 80%;
 	padding: 5%;
-	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
 }
 
 .card {
