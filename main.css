@@ -38,8 +38,9 @@ body {
 
 /* General typography styling */
 
-h2 {
+h1 {
 	color: hsl(223, 47%, 23%);
+        font-size:25px;
 
 }
 
