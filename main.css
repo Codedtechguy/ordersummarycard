@@ -24,10 +24,7 @@ body {
 	padding: 0;
 	margin: 0;
 	font-family: 'Red Hat Display';
-        display:flex;
-        align-items:center;
-        justify-content:center;
-
+        
 }
 
 /* Desktop design for background image */
@@ -70,8 +67,8 @@ a:hover {
 /* Main content styling in order of HTML precedence */
 
 .container {
-	width: 90%;
-	padding: 5%;
+	width: 95%;
+	padding: 2.5%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
